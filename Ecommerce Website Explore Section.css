@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.explore-section-background {
+    background-color: #f5f7fa;
+}
+
+.bg-card-electronics {
+    background-color: white;
+    border-radius: 14px;
+}
+
+.electronics-and-gadgets-heading {
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.electronics-and-gadgets-image {
+    border-radius: 15px;
+}
+
+.explore-heading {
+    font-family: "Roboto";
+    font-size: 60px;
+    color: #1f2933;
+    font-weight: 600;
+}
+
+.smart-watch-name {
+    font-family: "Roboto";
+    font-size: 25px;
+    color: #183b56;
+    font-weight: 500;
+}
+
+.see-all-deals-link {
+    font-family: "Roboto";
+    font-size: 23px;
+    color: #ff9f00;
+    padding-left: 15px;
+    font-weight: 600;
+    padding-bottom: 20px;
+}
+
+.festive-image {
+    width: 80%;
+    border-radius: 15px;
+}

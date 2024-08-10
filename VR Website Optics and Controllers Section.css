@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+/*
+.vr-optics-background {
+    background-color: #ffffff;
+    height: 100vh;
+    background-size: cover;
+    border-width: 3px;
+}
+*/
+
+.vr-optics-image {
+    width: 100%;
+}
+
+.vr-improved-optics-heading {
+    color: #1f2933;
+    font-size: 45px;
+    font-family: "Roboto";
+    font-weight: 700;
+    /* margin-top: 10px; */
+}
+
+.vr-improved-optics-description {
+    color: #7b8794;
+    font-size: 27px;
+    font-family: "Roboto";
+
+}
+
+.vr-optics-button {
+    background-color: #1a2137;
+    border-width: 0px;
+    color: #ffffff;
+    height: 50px;
+    width: 130px;
+
+    border-radius: 3px;
+    font-size: 20px;
+}
